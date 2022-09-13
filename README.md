@@ -42,7 +42,7 @@
 <input type="month" placeholder="MM,YY">
 <BR>
    <h3> I am Not a Robot<input type="checkbox" name="I am Not a Robot"><h3>
-  </h2>
+  
 <button><H3>MAKE A PAYMENT</H3></button>
 </body>
 </html>
